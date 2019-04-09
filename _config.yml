@@ -1,0 +1,30 @@
+title: Sean Oliver | Software Engineer
+email: snoliver@umich.edu
+description: >
+  Sean Oliver - Software Engineer and Mathematics Enthusiast
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: oliversno
+github_username:  oliversno
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['pages']
+kramdown:
+  input: GFM
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
