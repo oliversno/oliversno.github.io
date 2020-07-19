@@ -6,6 +6,8 @@ baseurl: ""
 url: "http://localhost:4000"
 twitter_username: oliversno
 github_username:  oliversno
+youtube_username: snoliver
+linkedin_username: sean-oliver
 
 # Build settings
 sass:
